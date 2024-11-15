@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.markdown("## New to the Market! asking $2,380,000", unsafe_allow_html=True)
+st.markdown("## New to the Market! asking $2,188,000", unsafe_allow_html=True)
 
 st.image("media/A00.jpg", caption="Summary")
 st.image("media/A01.jpg", caption="Exterior Front")
